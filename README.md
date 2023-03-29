@@ -1,16 +1,11 @@
-# practice_flutter_tiktok_clone
+# Practice flutter for me
 
-A new Flutter project.
+Hi, This repository is for learning reactJS FOR ME, not you.  
+If you want to see my work, welceom to here!  
+Please fell free to see around.
 
-## Getting Started
+And thanks nomad coders for providing [this lecture](https://nomadcoders.co/tiktok-clone)!
 
-This project is a starting point for a Flutter application.
+## Writing rules
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This repository must will be writing in english, because I want to level-up my english skills.
